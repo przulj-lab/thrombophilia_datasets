@@ -21,8 +21,8 @@ This repository contains all data and scripts related to the paper "A phenotype 
 - [Subnetworks.py](codes/Subnetworks.py)
 - [Compute_enrichments_alls.py](codes/Compute_enrichments_alls.py)
 - [Cluster_Associations_Thrombophilia.py](codes/Cluster_Associations_Thrombophilia.py)
-- [Gene_clusters_all.txt](codes/Gene_clusters_all.txt)
-- [Gene_clusters_all_P.txt](codes/Gene_clusters_all_P.txt)
+- [Gene_clusters_all.txt](codes/Gene_clusters_All.txt)
+- [Gene_clusters_all_P.txt](codes/Gene_clusters_All_P.txt)
 
 **[processed_dataset.zip](processed_dataset.zip)**: the germline variant profiles of five subjects.
 
